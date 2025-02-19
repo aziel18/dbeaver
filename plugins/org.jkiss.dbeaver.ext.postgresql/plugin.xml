@@ -551,6 +551,7 @@
                     <property name="loginTimeout" value="20"/>
                     <property name="connectTimeout" value="20"/>
                     <property name="client_protocol_version" value="0"/>
+                    <property name="@dbeaver-default-resultset.maxrows.sql" value="true"/>
                 </driver>
 
                 <driver
